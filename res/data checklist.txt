@@ -1,0 +1,17 @@
+raw water pipelines
+	valve assessments
+	exposed sections
+		sir
+		ultrasonic (ut) testing
+		hammer sounding
+	excavations
+		sir
+		bulk chloride testing of external mortar coating samples
+	cctv
+	manned entry
+	vaults
+	slab impulse response (sir)
+	bulk chloride testing of external mortar coating samples
+	soil corrosivity testing
+		chemical analysis
+		soil sample lab test results
